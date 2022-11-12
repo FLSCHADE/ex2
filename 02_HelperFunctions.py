@@ -11,7 +11,7 @@ def REPLACE_THIS(input): return input
 
 
 # load image
-imgOriginal = cvt.safeLoad('images/hummingbird_from_pixabay.png')
+imgOriginal = cvt.safeLoad('/images/hummingbird_from_pixabay.png')
 cvt.showImage("Original image", imgOriginal)
 
 
